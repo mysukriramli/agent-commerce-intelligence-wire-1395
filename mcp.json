@@ -1,0 +1,15 @@
+{
+  "name": "agent-commerce-intelligence-wire-1395",
+  "version": "1.0.0",
+  "description": "Deterministic commerce reality, trust, recall, pricing, and supply intelligence service for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
